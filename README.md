@@ -19,7 +19,9 @@
     <li>Where Do People Start Boarding Their Trip From?</li>
 </ul>
 
-<img src='' />
+<p>Here is one data visualisation for one question answered above:</p>
+
+<img src='graph_one.png' />
 
 <h2>Requirements</h2>
 
