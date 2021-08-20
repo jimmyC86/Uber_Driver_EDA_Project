@@ -18,3 +18,21 @@
     <li>What category are the trips categorize in and which category has the most trips?</li>
     <li>Where Do People Start Boarding Their Trip From?</li>
 </ul>
+
+<img src='' />
+
+<h2>Requirements</h2>
+
+<ul>
+    <li><p>Python 3 or latest version</p></li>
+    <li><p>Jupyter Notebook</p></li>
+</ul>
+
+<h2>Dependencies</h2>
+
+<ul>
+    <li><p>pandas</p></li>
+    <li><p>numpy</p></li>
+    <li><p>seaborn</p></li>
+    <li><p>matplotlib</p></li>
+</ul>
