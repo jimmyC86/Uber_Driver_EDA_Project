@@ -12,10 +12,9 @@
 
 <ul>
     <li>Check how long do people travel with Uber?</li>
-    <li>What Hour Do Most People Take Uber To Their Destination?</li>
-    <li>Check The Purpose Of Trips</li>
-    <li>Which Day Has The Highest Number Of Trips</li>
-    <li>What Are The Number Of Trips Per Each Day?</li>
-    <li>What Are The Trips In The Month</li>
-    <li>The starting points of trips. Where Do People Start Boarding Their Trip From Most?</li>
+    <li>Check The Purpose Of Trips?</li>
+    <li>Which Day Has The Highest Number Of Trips?</li>
+    <li>What Month has the highest number of Trips?</li>
+    <li>What category are the trips categorize in and which category has the most trips?</li>
+    <li>Where Do People Start Boarding Their Trip From?</li>
 </ul>
