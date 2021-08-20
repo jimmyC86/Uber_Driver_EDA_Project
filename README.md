@@ -21,7 +21,7 @@
 
 <p>Here is one data visualisation for one question answered above:</p>
 
-<img src='graph_one.png' />
+<img src='graph_one.PNG' />
 
 <h2>Requirements</h2>
 
